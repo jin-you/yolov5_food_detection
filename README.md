@@ -1,4 +1,4 @@
 # Yolov5
 
 
-## <a href="https://github.com/dogyun-k/Yolov5/blob/main/%ED%99%98%EA%B2%BD%EC%84%B8%ED%8C%85.md">0. 환경세팅</a>
+## <a href="https://github.com/dogyun-k/Yolov5/blob/main/%EC%9A%9C%EB%A1%9C%EC%8B%A4%EC%8A%B5%ED%95%B4%EB%B3%B4%EA%B8%B0.md">환경세팅과 샘플데이터셋으로 실습해보기</a>
